@@ -1,1 +1,1 @@
-belajar git ignore
+belajar collaboration dengan git source control
